@@ -1,0 +1,201 @@
+{
+  "categorias": [
+    {
+      "titulo": "Todo-Poderoso Timão",
+      "link": "https://www.youtube.com/watch?v=jEEfjOZ75Zc",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Nunca subestime o Corinthians!",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Nunca subestime o Corinthians!",
+          "url": "https://www.youtube.com/watch?v=jEEfjOZ75Zc"
+        },
+        {
+          "titulo": " O time mais vitorioso da década - 24/12/2017",
+          "url": "https://www.youtube.com/watch?v=NwgN0HErn3U"
+        },
+        {
+          "titulo": "Invasão Corinthiana - Filme Documentário Original",
+          "url": "https://www.youtube.com/watch?v=UtEhd2V7sDE"
+        },
+        {
+          "titulo": "Especial: 6 anos Corinthians dono da América!",
+          "url": "https://www.youtube.com/watch?v=udhltEDI9Tc"
+        },
+        {
+          "titulo": "Libertados",
+          "url": "https://www.youtube.com/watch?v=RufmZc3cdXo"
+        },
+        {
+          "titulo": "ESSE VÍDEO NÃO PODE MORRER: Rivais secam o Corinthians na LIBERTADORES 2012",
+          "url": "https://www.youtube.com/watch?v=iie3qCOSQy0"
+        },
+        {
+          "titulo": "As 10 Melhores Viradas do Corinthians",
+          "url": "https://www.youtube.com/watch?v=rdlIlSJOedU"
+        },
+        {
+          "titulo": "Todas as Defesas de Penaltis de Cassio pelo Corinthians ",
+          "url": "https://www.youtube.com/watch?v=xoOeYGp6f-I"
+        }        
+      ]
+    },
+    {
+      "titulo": "Desenvolvimento FullStack",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "O que um dev fullstack deve aprender",
+        "url": "https://youtu.be/JdV2UhtXVw4"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar para ser um Fullstack Developer?",
+          "url": "https://www.youtube.com/watch?v=gjYCjIratfk"
+        },
+        {
+          "titulo": "O caminho do desenvolvedor Fullstack, como se tornar um?",
+          "url": "https://www.youtube.com/watch?v=jC98XI1G3uo"
+        },
+        {
+          "titulo": "Como entrar no mercado de trabalho de programação?",
+          "url": "https://youtu.be/wUX-tRMynHE"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes - Dicas importantes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "ORDEM DEFINITIVA PARA VER STAR WARS",
+          "url": "https://www.youtube.com/watch?v=PAMlNvcBph0"
+        },
+        {
+          "titulo": "Tudo Sobre a Trilogia Matrix",
+          "url": "https://www.youtube.com/watch?v=zmw_p_6wxls"
+        },
+        {
+          "titulo": "Qual é a ordem dos filmes O Senhor dos Anéis ?",
+          "url": "https://www.youtube.com/watch?v=DzQNwsM9wFo"
+        },
+        {
+          "titulo": "DE VOLTA PARA O FUTURO! - TUDO SOBRE",
+          "url": "https://www.youtube.com/watch?v=dK-duazvR-0"
+        },
+        {
+          "titulo": "Código de Conduta",
+          "url": "https://youtu.be/KMTZ8wz5heE"
+        },
+        {
+          "titulo": "300 - Official Trailer [HD]",
+          "url": "https://www.youtube.com/watch?v=UrIbxk7idYA&t=6s"
+        },
+        {
+          "titulo": "Gladiador - Trailer",
+          "url": "https://www.youtube.com/watch?v=owK1qxDselE"
+        },
+        {
+          "titulo": "The Goonies - Trailer",
+          "url": "https://www.youtube.com/watch?v=hJ2j4oWdQtU"
+        }
+      ]
+    },
+    {
+      "titulo": "Games e mais games",
+      "cor": "red",
+      "link_extra": {
+        "text": "PES 2020 - Official Trailer | E3 2019",
+        "url": "https://youtu.be/_89i5H1zAeU"
+      },
+      "videos": [
+        {
+          "titulo": "Counter-Strike 1.6 (2019) - Gameplay PC HD",
+          "url": "https://www.youtube.com/watch?v=oIoueckSEtU"
+        },
+        {
+          "titulo": "[LONGPLAY] SNES - Super Mario All-Stars - Super Mario Bros (HD, 60FPS)",
+          "url": "https://www.youtube.com/watch?v=Us-RuCiefZI"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "PS2 Longplay [005] Black",
+          "url": "https://youtu.be/HcqeLApWi9U"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
