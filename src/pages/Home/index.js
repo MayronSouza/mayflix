@@ -2,7 +2,7 @@ import React from 'react';
 import Menu from '../../components/Menu';
 import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
-import Carousel from '../../components/Carousel';
+import Caroussel from '../../components/Caroussel';
 import Footer from '../../components/Footer';
 
 function Home() {
@@ -15,28 +15,28 @@ function Home() {
         videoDescription={'Corinthians é Raça'}
       />
 
-      <Carousel
+      <Caroussel
         ignoreFirstVideo
         category={dadosIniciais.categorias[0]}
       />
 
-      <Carousel
+      <Caroussel
         category={dadosIniciais.categorias[1]}
       />
 
-      <Carousel
+      <Caroussel
         category={dadosIniciais.categorias[2]}
       />
 
-      <Carousel
+      <Caroussel
         category={dadosIniciais.categorias[3]}
       />
 
-      <Carousel
+      <Caroussel
         category={dadosIniciais.categorias[4]}
       />
 
-      <Carousel
+      <Caroussel
         category={dadosIniciais.categorias[5]}
       />
 
